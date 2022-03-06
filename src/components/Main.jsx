@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { FaTrash , FaEdit , FaWindowClose } from "react-icons/fa";
 import './Main.css'
 
+// comentário
+
 
 export default class Main extends Component {
     constructor(props) {
